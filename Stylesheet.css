@@ -1,0 +1,113 @@
+h1{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-family: Montserrat;
+  font-size: 4rem;
+  text-align: center;
+}
+h2{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-family: Montserrat;
+  text-align: center;
+}
+
+h4{
+  color: #19355e;
+  font-weight: 600;
+}
+
+a{
+  text-decoration: none;
+}
+.navbar {
+  background-color: #19355e;
+}
+.Rentepropertieslogotext{margin: 0;
+  margin-left: 1.5rem;
+  margin-bottom: 0;
+  font-family: Montserrat;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: large;
+}
+
+.navbarlogo{
+  margin-left: 1.5rem;
+}
+.nav-link{
+  font-family: Montserrat;
+  color: #FFFFFF;
+}
+
+.navigation{
+  background-color: #19355e;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 2rem;
+  border-spacing: 0;
+  border: 0;
+}
+
+.navigation-link{
+  font-family: poppins;
+  font-size: 20;
+color: #FFFFFF;
+}
+
+.body{
+  width: 100%;
+  height: auto;
+}
+.privacypolicy{
+  color: #FFFFFF;
+  font-weight: 500;
+  font-family: poppins;
+  font-size: 20;
+margin-top: 1rem;
+margin-left: 10rem;
+}
+.privacypolicytable{
+  margin-right: 6rem;
+  font-family: poppins;
+  font-size: small;
+  font-weight: 400;
+}
+
+.downlink{
+  color: #FFFFFF;
+}
+
+.Footer{
+  width: 100%;
+height: 27rem;
+background-color: #FFFFFF;
+}
+.Aboutus{width: 20rem;
+  height: 0;
+  margin-left: 15rem;
+  padding-top: 5.6rem;
+  font-family: Montserrat;
+
+}
+.Contactus{width: 20rem;
+  margin-left:65%;
+  font-family: Montserrat;
+
+}
+.aboutusdescription{
+  color: #19355E;
+}
+.contactusdescription{
+  color: #19355E;
+}
+.brandicons{
+  height: 2.5rem;
+  width: 2.5rem;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 19%;
+  left: 25%;
+}
